@@ -1,2 +1,4 @@
 # hello-world
-Justr a starter project
+Just a starter project
+
+I am learning about the interface for entering this information
